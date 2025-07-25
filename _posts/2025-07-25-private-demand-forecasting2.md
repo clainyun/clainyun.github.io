@@ -125,7 +125,7 @@ why? 이미 약을 먹었으니까. -> Missing Data Problem
 
 ### SCM (Structural Causal Model)
 변수들 사이의 인과 관계를 방향 있는 그래프(DAG)로 표현하는 것.
-<img width="304" height="149" alt="Image" src="https://github.com/user-attachments/assets/e8163f36-74ba-4c99-8052-ff5b398db9ce" />
+<img width="322" height="175" alt="Image" src="https://github.com/user-attachments/assets/45eb8d60-3f66-465c-a960-0e762b898608" />
 내생변수(우리가 관측할 수 있는 요인) 간의 인과관계
 A, B에 의해 영향을 받고있는 D는 단방향 edge로 표현가능
 한편, U' 라고 하는 외생변수(관측 X)에 영향을 받고있는 D와 E는 양방향 edge로 표현함
